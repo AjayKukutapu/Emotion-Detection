@@ -3,7 +3,7 @@ Emotion Detection using the FER 2013 dataset.
 
 Dataset : https://www.kaggle.com/datasets/msambare/fer2013/data
 
-In this project we are building a CNN from scratch that would classify images into 7 classes of emotions. We will also use existing models like VGG16, ResNer50, and EfficientNet and compare them to the CNN we have built.
+In this project we are building a CNN from scratch that would classify images into 7 classes of emotions. We will also use existing models like VGG16, ResNet50, and EfficientNet and compare them to the CNN we have built.
 
 Sample Data from Fer 2013
 
